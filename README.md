@@ -82,7 +82,7 @@ $ sudo docker network connect aaa lb
 ```
 
 ```bash
-sudo docker network inspect aaa
+$ sudo docker network inspect aaa
 ```
 
 ```json
