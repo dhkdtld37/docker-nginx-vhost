@@ -81,8 +81,12 @@ $ sudo docker network connect aaa serv-b
 $ sudo docker network connect aaa lb
 ```
 
-```json
+```bash
 sudo docker network inspect aaa
+```
+
+```json
+
 [
     {
         "Name": "aaa",
