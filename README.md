@@ -32,3 +32,7 @@ CONTAINER ID   IMAGE          COMMAND                  CREATED              STAT
 6d29acd1e0df   nginx          "/docker-entrypoint.…"   17 hours ago         Up 17 hours         0.0.0.0:9055->80/tcp   BlogDockerHub
 ```
 
+### Step 3
+
+```bash
+$ sudo docker network create aaa
