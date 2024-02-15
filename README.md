@@ -1,11 +1,11 @@
 ## v 0.1.0 / Docker
 
-- [ ] serv-a, serv-b, lb 에 대해서
-A. 각각 Dockerfile 을 생성
-B. 빌드
-C. RUN
-D. 네트워크 생성하여 serv-a, serv-b, lb 를 묶고
-E. 잘 동작하는지 확인 및 README.md 에 설명 작성
+- serv-a, serv-b, lb 에 대해서
+- [x] A. 각각 Dockerfile 을 생성
+- [x] B. 빌드
+- [x] C. RUN
+- [x] D. 네트워크 생성하여 serv-a, serv-b, lb 를 묶고
+- [x] E. 잘 동작하는지 확인 및 README.md 에 설명 작성
 
 # docker nginx vhost
 
